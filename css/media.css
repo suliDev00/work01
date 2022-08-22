@@ -1,0 +1,72 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 1024px) {
+    image img {
+        width: 242px;
+
+    }
+
+    .can img {
+        width: 1043px;
+    }
+    .course-img img {
+        width: 512px;
+    }
+}
+@media (max-width: 992px) {
+    .course-img img {
+        width: 496px;
+    }
+
+    .can img {
+        width: 1012px;
+    }
+
+    .what {
+        width: 772px;
+    }
+    }
+    .image-second {
+        position: absolute;
+        left: 701px;
+        top: 622px;}
+.image-first img {
+    width: 845px;
+    height: 537px;
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
+
+@media (max-width: 450px) {
+
+}
+
+@media (max-width: 400px) {
+
+}
+
+@media (max-width: 375px) {
+
+}
+
+@media (max-width: 320px) {
+
+}
+
+
+
+
+
+
